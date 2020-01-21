@@ -1,13 +1,13 @@
 <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="7">
-<rect id="Rectangle 1" x="19.8284" y="57.1714" width="4" height="4" transform="rotate(45 19.8284 57.1714)" fill="#182B70"/>
-<rect id="Rectangle 4" x="39.8284" y="57.1714" width="4" height="4" transform="rotate(45 39.8284 57.1714)" fill="#182B70"/>
-<rect id="Rectangle 7" x="59.8284" y="57.1714" width="4" height="4" transform="rotate(45 59.8284 57.1714)" fill="#182B70"/>
-<rect id="Rectangle 2" x="19.8284" y="37" width="4" height="4" transform="rotate(45 19.8284 37)" fill="#182B70"/>
-<rect id="Rectangle 5" x="39.8284" y="37" width="4" height="4" transform="rotate(45 39.8284 37)" fill="#182B70"/>
-<rect id="Rectangle 8" x="59.8284" y="37" width="4" height="4" transform="rotate(45 59.8284 37)" fill="#182B70"/>
-<rect id="Rectangle 3" x="19.8284" y="17" width="4" height="4" transform="rotate(45 19.8284 17)" fill="#182B70"/>
-<rect id="Rectangle 6" x="39.8284" y="17" width="4" height="4" transform="rotate(45 39.8284 17)" fill="#182B70"/>
-<rect id="Rectangle 9" x="59.8284" y="17" width="4" height="4" transform="rotate(45 59.8284 17)" fill="#182B70"/>
+<rect id="Rectangle 1" x="19.8284" y="57.1714" width="4" height="4" transform="rotate(45 19.8284 57.1714)" fill="#ff9b9b"/>
+<rect id="Rectangle 4" x="39.8284" y="57.1714" width="4" height="4" transform="rotate(45 39.8284 57.1714)" fill="#ff9b9b"/>
+<rect id="Rectangle 7" x="59.8284" y="57.1714" width="4" height="4" transform="rotate(45 59.8284 57.1714)" fill="#ff9b9b"/>
+<rect id="Rectangle 2" x="19.8284" y="37" width="4" height="4" transform="rotate(45 19.8284 37)" fill="#ff9b9b"/>
+<rect id="Rectangle 5" x="39.8284" y="37" width="4" height="4" transform="rotate(45 39.8284 37)" fill="#ff9b9b"/>
+<rect id="Rectangle 8" x="59.8284" y="37" width="4" height="4" transform="rotate(45 59.8284 37)" fill="#ff9b9b"/>
+<rect id="Rectangle 3" x="19.8284" y="17" width="4" height="4" transform="rotate(45 19.8284 17)" fill="#ff9b9b"/>
+<rect id="Rectangle 6" x="39.8284" y="17" width="4" height="4" transform="rotate(45 39.8284 17)" fill="#ff9b9b"/>
+<rect id="Rectangle 9" x="59.8284" y="17" width="4" height="4" transform="rotate(45 59.8284 17)" fill="#ff9b9b"/>
 </g>
 </svg>

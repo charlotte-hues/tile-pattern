@@ -10,6 +10,7 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 html,
@@ -19,14 +20,23 @@ body {
 }
 
 #pattern-grid-container {
+    width: 480px;
+    height: 480px;
     display: grid;
-    width: 100vw;
-    grid-template-rows: 80px 80px 80px;
-    grid-template-columns: 80px 80px 80px;
+    grid-gap: 0;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 section {
     background-color: bisque;
+    height: 160px;
+}
+
+img {
+    filter: hue-rotate(280deg);
+    height: 100%;
+    width: 100%;
 }
 
 </style>
@@ -58,7 +68,8 @@ const max = 13;
 function changeTile() {
     var rand = Math.floor(Math.random() * (max- min + 1)) + min;
     this.innerHTML = `<img src="${allTilesDir + rand + '.svg'}">`
-    console.log(this.innerHTML);
+    console.log(this);
+    this.style.background = `hsl(${rand*90},100%, 50%)`
 }
 
 

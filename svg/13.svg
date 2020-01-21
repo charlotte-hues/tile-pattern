@@ -1,27 +1,27 @@
 <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="13">
 <g id="Union">
-<path d="M18 0L20 2L22 0H18Z" fill="#182B70"/>
-<path d="M18 20L20 22L22 20L20 18L18 20Z" fill="#182B70"/>
-<path d="M20 42L18 40L20 38L22 40L20 42Z" fill="#182B70"/>
-<path d="M18 59L20 61L22 59L20 57L18 59Z" fill="#182B70"/>
-<path d="M60 78L62 80H58L60 78Z" fill="#182B70"/>
-<path d="M62 59L60 57L58 59L60 61L62 59Z" fill="#182B70"/>
-<path d="M60 38L62 40L60 42L58 40L60 38Z" fill="#182B70"/>
-<path d="M62 20L60 18L58 20L60 22L62 20Z" fill="#182B70"/>
-<path d="M2 60L0 62V58L2 60Z" fill="#182B70"/>
-<path d="M80 18L78 20L80 22V18Z" fill="#182B70"/>
-<path d="M40 22L38 20L40 18L42 20L40 22Z" fill="#182B70"/>
-<path d="M60 2L58 0H62L60 2Z" fill="#182B70"/>
-<path d="M38 40L40 42L42 40L40 38L38 40Z" fill="#182B70"/>
-<path d="M38 59L40 61L42 59L40 57L38 59Z" fill="#182B70"/>
-<path d="M40 78L42 80H38L40 78Z" fill="#182B70"/>
-<path d="M2 40L0 42V38L2 40Z" fill="#182B70"/>
-<path d="M80 38L78 40L80 42V38Z" fill="#182B70"/>
-<path d="M22 80L20 78L18 80H22Z" fill="#182B70"/>
-<path d="M0 22L2 20L0 18V22Z" fill="#182B70"/>
-<path d="M78 60L80 58V62L78 60Z" fill="#182B70"/>
-<path d="M38 0L40 2L42 0H38Z" fill="#182B70"/>
+<path d="M18 0L20 2L22 0H18Z" fill="#ff9b9b"/>
+<path d="M18 20L20 22L22 20L20 18L18 20Z" fill="#ff9b9b"/>
+<path d="M20 42L18 40L20 38L22 40L20 42Z" fill="#ff9b9b"/>
+<path d="M18 59L20 61L22 59L20 57L18 59Z" fill="#ff9b9b"/>
+<path d="M60 78L62 80H58L60 78Z" fill="#ff9b9b"/>
+<path d="M62 59L60 57L58 59L60 61L62 59Z" fill="#ff9b9b"/>
+<path d="M60 38L62 40L60 42L58 40L60 38Z" fill="#ff9b9b"/>
+<path d="M62 20L60 18L58 20L60 22L62 20Z" fill="#ff9b9b"/>
+<path d="M2 60L0 62V58L2 60Z" fill="#ff9b9b"/>
+<path d="M80 18L78 20L80 22V18Z" fill="#ff9b9b"/>
+<path d="M40 22L38 20L40 18L42 20L40 22Z" fill="#ff9b9b"/>
+<path d="M60 2L58 0H62L60 2Z" fill="#ff9b9b"/>
+<path d="M38 40L40 42L42 40L40 38L38 40Z" fill="#ff9b9b"/>
+<path d="M38 59L40 61L42 59L40 57L38 59Z" fill="#ff9b9b"/>
+<path d="M40 78L42 80H38L40 78Z" fill="#ff9b9b"/>
+<path d="M2 40L0 42V38L2 40Z" fill="#ff9b9b"/>
+<path d="M80 38L78 40L80 42V38Z" fill="#ff9b9b"/>
+<path d="M22 80L20 78L18 80H22Z" fill="#ff9b9b"/>
+<path d="M0 22L2 20L0 18V22Z" fill="#ff9b9b"/>
+<path d="M78 60L80 58V62L78 60Z" fill="#ff9b9b"/>
+<path d="M38 0L40 2L42 0H38Z" fill="#ff9b9b"/>
 </g>
 </g>
 </svg>
