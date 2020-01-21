@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+
+<title>Tile Pattern Experiment</title>
+</head>
+
+<body>
+<style>
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    width: 100vw;
+
+}
+
+#pattern-grid-container {
+    display: grid;
+    width: 100vw;
+    grid-template-rows: 80px 80px 80px;
+    grid-template-columns: 80px 80px 80px;
+}
+
+section {
+    background-color: bisque;
+}
+
+</style>
+
+<article id="pattern-grid-container">
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+    <section><img src="svg/2.svg"></section>
+</article>
+
+
+
+
+
+<script>
+
+const gridCells = document.querySelectorAll('section');
+const allTilesDir = '/svg/';
+
+const min = 1;
+const max = 13;
+
+function changeTile() {
+    var rand = Math.floor(Math.random() * (max- min + 1)) + min;
+    this.innerHTML = `<img src="${allTilesDir + rand + '.svg'}">`
+    console.log(this.innerHTML);
+}
+
+
+gridCells.forEach(cell => cell.addEventListener('click', changeTile))
+
+
+
+</script>
+
+
+</body>
+
+
+
+</html>
